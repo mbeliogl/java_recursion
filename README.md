@@ -36,7 +36,7 @@
 >
 > How to use: 
 >
-> 1. Run: _Java Bubbles <startRow> <startCol>_
+> 1. Run: _Java Bubbles startRow startCol_
 >
 >    ​	Where startRow and startCol are the grid coordiates of the starting bubble
 >
